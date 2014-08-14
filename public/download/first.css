@@ -1,0 +1,73 @@
+
+*{
+  margin:0;
+  padding:0;
+}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,
+fieldset,legend,input,textarea,p,blockquote,th,td{
+margin:0;
+padding:0;
+}
+
+html, body {
+
+  background-color: #fff;
+  margin-top:0; 
+  padding-top:0;
+  height: 100%;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+  font-family:"Microsoft Yahei";
+
+}
+
+a {
+  text-decoration: none;
+  font-family:"Microsoft Yahei";
+}
+
+.hd img{  
+  width:100%;
+}
+
+ul{
+
+  margin-top:10%;
+}
+
+li{
+  font-family:"Microsoft Yahei";
+  color:#000;
+  margin-top:5%;
+  margin-left:14%;
+  font-size:15px;
+}
+
+.button{
+
+  margin-top:10%;
+  margin-left:5%;
+}
+
+
+.button a{
+
+ 
+  float:left;
+  margin-right:3%;
+	background-color:#ff1704;
+  padding:8px;
+  color:#fff;
+  font-size:17px;
+  width:40%;
+  text-align: center;
+
+}
+.button img{
+
+  height:20px;
+
+}
+
+
+
