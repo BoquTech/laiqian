@@ -1,0 +1,64 @@
+* {padding:0;margin:0;}
+body {font-family:宋体;font-size:12px;background:#f2e0b1 url(../images/bg_02.png) no-repeat center 43px;}
+ul {list-style:none;}
+img {border:none;}
+a {text-decoration:none;}
+.clear {width:100%;height:1px;clear:both;overflow:hidden;}
+
+#top {width:100%;height:43px;background:#A91015;}
+.top1 {width:880px;height:43px;line-height:43px;margin:0 auto;background:#A91015;}
+.top_left {width:570px;float:left;}
+.top_right {width:310px;float:right;color:#FFF;}
+.top_right img {float:left;}
+.top_right a {color:#FFF;font-size:14px;font-weight:bold;}
+.top_right a:hover {text-decoration:underline;}
+
+#main {width:879px;margin:0 auto;}
+.goumai {height:437px;width:879px;}
+.goumai img {margin-top:351px;margin-left:294px;}
+.fuwu {width:879px;height:575px;position:relative;}
+.fuwu .chakan {position:absolute;left:712px;top:30px;}
+
+.top {width:100%;height:5px;background:url(../images/yj_07.jpg) no-repeat;}
+.bott {width:100%;height:5px;background:url(../images/yj_10.jpg) no-repeat;}
+.center {width:100%;background:#fff7e3;padding-top:35px;}
+.center ul{overflow:auto;height:200px;width:815px;}
+.center .yi {width:756px;margin:0 auto;background:url(../images/sz_11.jpg) no-repeat;padding-bottom:45px;}
+.center .er {background:url(../images/sz_14.jpg) no-repeat;}
+.center .san {background:url(../images/sz_16.jpg) no-repeat;}
+.center .si {background:url(../images/sz_18.jpg) no-repeat;}
+.center .wu {background:url(../images/sz_20.jpg) no-repeat;}
+.center .yi h3 {padding-left:67px;font-size:20px;font-family:方正正中黑简体;color:#f4543c;font-weight:400;}
+p {padding-left:67px;line-height:26px;font-size:16px;font-family:方正正中黑简体;color:#555555;padding-top:8px;}
+
+.neirong {width:868px;margin-left:11px;;background:#f4543c;}
+.zj {width:816px;margin:0 auto;}
+
+.wenda {width:879px;position:relative;}
+.wenda .chakan {position:absolute;left:711px;top:45px;}
+
+.fenxi {width:879px;position:relative;}
+.fenxi .ewm {position:absolute;left:713px;top:39px;}
+
+
+.one_fx {padding-bottom:30px;}
+h4 {width:560px;height:47px;line-height:47px;background:url(../images/lq_30.jpg) no-repeat;margin-left:30px;}
+h4  a {color:#e02e20;padding-left:15px;font-size:20px;}
+h4 span {padding-left:12px;font-size:16px;color:#ee655b;}
+.one_fx p {padding:10px 30px;}
+
+.zixun {margin-bottom:30px;}
+.zixun .neirong {border-bottom:9px solid red;padding-bottom:50px;}
+.zixun .neirong ul {width:800px;margin:0 auto;overflow:auto;height:100px;}
+.zixun .neirong ul li {width:775px;height:47px;line-height:47px;background:url(../images/lq_35.jpg) no-repeat;margin-bottom:15px;}
+.zixun .neirong ul li a {font-size:16px;padding-left:23px;color:#e02e20;font-weight:bold;}
+.zixun .neirong ul li  span {font-size:14px;color:#999999;padding-left:5px;}
+
+#bottom {width:100%;height:119px;background:#A91015;}
+.bottom {width:879px;margin:0 auto;background:#A91015;}
+
+.celan {width:138px;position:fixed;right:20px;top:80px;}
+.celan .ewm {width:125px;height:168px;margin-bottom:10px;background:url(../images/erweima.jpg) no-repeat;}
+.celan .ewm img {margin-left:6px;margin-top:7px;}
+.celan p {width:130px;height:49px;line-height:40px;background:url(../images/bg5.jpg) no-repeat;color:#F4543E;font-size:20px;padding-left:36px;}
+.celan p a {color:#F4543E;font-size:20px;}
