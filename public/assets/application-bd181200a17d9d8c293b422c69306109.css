@@ -1,0 +1,154 @@
+/* line 1, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+body {
+  background-color: #fdcf00;
+  color: #333;
+  font-family: Microsoft YaHei;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 9, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+p, ol, ul, td {
+  font-family: Microsoft YaHei;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 14, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+ul {
+  position: absolute;
+  top: 0px;
+  left: 20%;
+}
+
+/* line 19, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+p {
+  left: 7%;
+  top: 5px;
+  font-size: 15px;
+  color: #E90000;
+  position: absolute;
+  font-family: Microsoft YaHei;
+}
+
+/* line 27, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+li {
+  list-style: none;
+  float: left;
+}
+
+/* line 33, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+#feedback_price, #feedback_phone {
+  width: 130px;
+  height: 30px;
+  font-size: 15px;
+  margin-left: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* line 42, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+input[type="submit"] {
+  display: block;
+  height: 32px;
+  width: 60px;
+  color: #fff;
+  background-color: #e90000;
+  border: 1px solid #e90000;
+  border-radius: 5px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+/* line 53, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+.share {
+  left: 10%;
+}
+
+/* line 56, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+button {
+  display: block;
+  height: 40px;
+  width: 220px;
+  color: #fff;
+  background-color: #e90000;
+  border: 1px solid #e90000;
+  border-radius: 5px;
+  margin-right: 20px;
+  font-size: 15px;
+}
+
+/* line 68, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+/* line 74, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+a {
+  color: #000;
+}
+/* line 76, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+a:visited {
+  color: #666;
+}
+/* line 79, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+/* line 86, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+#notice {
+  color: green;
+}
+
+/* line 90, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+/* line 96, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+/* line 103, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  margin-bottom: 0px;
+  background-color: #c00;
+  color: #fff;
+}
+/* line 113, /Users/jsfundboqu/Desktop/jsproject/laiqian/app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: none;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+

@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+}
+iframe,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,
+fieldset,legend,input,textarea,p,blockquote,th,td{
+margin:0;
+padding:0;
+}
+html, body {
+
+  background-color:#fdcf00;
+  margin-top:0; 
+  padding-top:0;
+  height: 100%;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+  font-family:"Microsoft Yahei";
+
+}
+
+iframe{
+  width:100%;
+  height:60px;
+}
+img{
+  width:100%;
+}
+
